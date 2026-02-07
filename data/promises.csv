@@ -1,0 +1,11 @@
+promiseId,politicianId,detail,date,status
+P001,10000001,Increase minimum wage,2023-01-10,NOT_STARTED
+P002,10000001,Free education for all,2023-02-05,IN_PROGRESS
+P003,10000002,Reduce plastic waste,2023-01-20,IN_PROGRESS
+P004,10000002,Expand green public transport,2023-03-01,ABANDONED
+P005,10000003,Improve healthcare system,2023-01-15,NOT_STARTED
+P006,10000003,Build new hospitals,2023-02-10,IN_PROGRESS
+P007,10000004,Lower electricity cost,2023-01-25,ABANDONED
+P008,10000004,Support SMEs funding,2023-03-05,NOT_STARTED
+P009,10000005,Digital government services,2023-02-01,IN_PROGRESS
+P010,10000005,Anti-corruption reform,2023-01-05,ABANDONED
